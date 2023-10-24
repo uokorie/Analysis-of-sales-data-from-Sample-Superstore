@@ -8,7 +8,7 @@ What's the Best performing Product based on profit generated?
 Who is the best customer based on profit generated from this customer? 
 Whats the most frequently used shipping mode? How can Sample Superstore leverage on the frequently used shiping mode for customer retention?
 
-I carried out this Analysis on Excel, using Pivot Table and Visualization tools.
+I carried out this Analysis on Microsoft Excel, using Pivot Table and Visualization tools.
 
 # Data transformation/cleaning
 The first step was to ensure that the data is transformed and clean to facilitate accurate result from my analysis.
@@ -20,7 +20,7 @@ Using the formular =(ship date) - (Order date), I was able to generate the order
 Furthermore, I inserted a new column with a header Prpfit Margin, changed the data type to percentage. using the formular =Y2(profit)/V2(sales), I was able to get a profit margin for the first product on cell U2. The formular was copied down the profit margin column to generate the profit Margin for every named product in column U of the sales data set.
 
 
-# Profit and Revenue Generation by City, State,Region, and Segment
+# Profit and Revenue Generation by City, State, Region, and Segment
 Looking at revenue and profit generated in various cities, states , region and from Various segment of the market, I can see that from the top 10 cities, in 4 years, the Highest revenue and Profits geerated by City is from New York City followed by Los Angeles. The state where the highest revenue and profit was generated within this 4 year period is California followed by the state of New york. The region with the highest Revenue and Profit is the West, and the Segment that drove this outcome is the Consumer segment of the market. See Pivot table and Visualization Chart below
 
 ![](Project_Pivot2.PNG)     ![](Project_Chart2.PNG)
