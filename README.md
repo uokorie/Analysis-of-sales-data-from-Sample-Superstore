@@ -4,7 +4,7 @@
 
 I'll be carrying out this Analysis on Excel, using Pivot Table and Visualization tools.
 
-The first step is to ensure that the data is clean to facilitate accurate result from my analysis.
+The first step was to ensure that the data is clean to facilitate accurate result from my analysis.
 
 
 # Profit and Revenue Generation by City, State,Region, and Segment
@@ -32,6 +32,13 @@ In order to see the best performing products based on total profit generated fro
 I can deduce that the best performing product based on total profit from 2014-2017 is "Canon imageClass2200 Advanced Copier". However, in 2014 it was "Ibico EPK-21 Electric BInding System". In 2015 it was "Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind". In 2016 and 2017, it was "Canon imageClass2200 Advanced Copier". See Pivot Table and Visualization chart below.
 
 ![](Project_Pivot6.PNG)   ![](Project_Chart6.PNG)
+
+
+# The Month of highest Profit and revenue generation.
+Within the period under investigation, the Highest profit was generated in "December" and the highest Revenue was generated in "November".
+
+![](Project_Pivot9.PNG)   ![](Project_Chart9.PNG)
+
 
 
 # The Best Customer by Total Profit.
