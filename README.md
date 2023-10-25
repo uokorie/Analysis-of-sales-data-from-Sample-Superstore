@@ -71,6 +71,8 @@ As a way of conclusion, i'd like us to take a look at some insights drawn from t
 Revenue increased over the years from 2014 to 2017. however there was a drop in 2015.
 Total profit per year increased signicantly from 2014 to 2017 with a greater margin in 2016.
 The quantity of good sold increased over the years under review with the highest being the quantity sold in 2017.
-The Percentage average profit margin per year reduced in 2015 from 11.81% to 11.76%. It increased in 2016 tom 12.98% and reduced again in 2017 to 11.60%. 
+The Percentage average profit margin per year reduced in 2015 from 11.81% to 11.76%. It increased in 2016 to 12.98% and reduced again in 2017 to 11.60%. 
 
-I'd recommend that the management of Sample Superstore should device a strategy to mitigate against the reduction in Profit margin as seen from 2016 to 2017 despite selling more in 2017. 
+I'd recommend that the management of Sample Superstore should look into the cause of this fluctuation in Profit margin, and device a strategy to mitigate against future occurance as seen from 2016 to 2017 despite selling more in 2017. see Pivot Table below.
+
+![](Project_Pivot10.PNG)
