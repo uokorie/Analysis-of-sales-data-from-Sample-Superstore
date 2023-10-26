@@ -65,7 +65,12 @@ Within the period under investigation, the Highest profit was generated in "Dece
 # The Best Customer by Total Profit.
 Based on the Total Profit generated from each customer over the period under investigation, the best customer is "Tamara Chand" with a total profit of $8,981.32. followed by "Raymond Buch" with a Total Profit of $6,976.10. However, the best Customer in 2014 and 2017 was "Sanjit Chand" and "Raymond Buch" respectively.
 
-![](Project_Pivot7.PNG)    ![](Project_Pivot12.PNG)
+![](Project_Pivot7.PNG)   ![](Project_Pivot13.PNG)
+
+![](Project_Pivot14.PNG)
+![](Project_Pivot15.PNG)
+![](Project_Pivot16.PNG)
+![](Project_Pivot17.PNG)
 
 
 The most frequently use Ship mode is the "Standard Class" with 48% subscription, followed by Second Class with 31% subscription by Sample superstore customers. Looking at the Pivot table, the average order processing time for Standard Class is 5 days. Sample Superstore can collaberate with any willing logistics company to shorten the order processing time in order to retain their esteemed customer, who would be glad to have their parcels delivered earlier than expected.
