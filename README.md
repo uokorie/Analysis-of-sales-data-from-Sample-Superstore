@@ -53,7 +53,7 @@ Theres was a significant growth in revenue and Profit from 2014 to 2017. However
 In order to see the best performing products based on total profit generated from 2014-2017, I created a Pivot table Showing the top ten products, order years and Total Profit.
 I can deduce that the best performing product based on total profit from 2014-2017 is "Canon imageClass2200 Advanced Copier". However, in 2014 it was "Ibico EPK-21 Electric BInding System". In 2015 it was "Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind". In 2016 and 2017, it was "Canon imageClass2200 Advanced Copier". See Pivot Table and Visualization chart below.
 
-![](Project_Pivot6.PNG)   ![](Project_Chart6.PNG)
+![](Project_Pivot6.PNG)  
 
 
 # The Month of highest Profit and revenue generation.
