@@ -74,13 +74,15 @@ The most frequently use Ship mode is the "Standard Class" with 48% subscription,
 
 
 
-As a way of conclusion, i'd like us to take a look at some insights drawn from the 4 key performance indicators that i've identified in the course of my analysis.
-
-Revenue increased over the years from 2014 to 2017. however there was a drop in 2015.
+# Conclusion
+Looking at the 4 key performance indicators that i've identified in the course of my analysis.
+Revenue increased over the years from 2014 to 2017. However there was a drop in 2015.
 Total profit per year increased signicantly from 2014 to 2017 with a greater margin in 2016.
 The quantity of good sold increased over the years under review with the highest being the quantity sold in 2017.
 The Percentage average profit margin per year reduced in 2015 from 11.81% to 11.76%. It increased in 2016 to 12.98% and reduced again in 2017 to 11.60%. 
-
-Sample Superstore needs to record a steady growth in the 4 Key Performance indicators. A minimal growth is acceptable but not a decline. I'd recommend that the management of Sample Superstore should look into the cause of this fluctuation in Profit margin, and device a strategy to mitigate against future occurance as seen from 2016 to 2017 despite selling more in 2017. see Pivot Table below.
-
 ![](Project_Pivot10.PNG)
+
+# Recommendation
+Sample Superstore needs to record a steady growth in the 4 Key Performance indicators. A minimal growth is acceptable but not a decline. I'd recommend that the management of Sample Superstore should look into the cause of this fluctuation in Profit margin, and device a strategy to mitigate against future occurance as seen from 2016 to 2017 despite selling more in 2017. 
+
+
