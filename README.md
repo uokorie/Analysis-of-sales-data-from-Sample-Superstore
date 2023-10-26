@@ -1,4 +1,4 @@
-# Analysis-of-sales-data-from-Sample-Superstore.
+# SAMPLE SUPERSTORE SALES ANALYSIS.
 
 # Introduction/Problem statement.
 The aim of this project is to analyse the sales activity of Sample superstore over a period of 4 years (2014-2017), with focus on Revenue and profit generation by City, state, region, and Segment. In addition,I'll look at the Profit generatated each year. Is there a growth in the profit generated or decline over the years? 
